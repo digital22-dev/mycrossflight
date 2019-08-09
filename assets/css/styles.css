@@ -1,0 +1,200 @@
+.container.top-area {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row.top-row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  z-index: 950;
+}
+
+.col-md-4.top-header {
+  padding-left: 5px;
+}
+
+p {
+  color: rgb(255,255,255);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 50;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.container.hero {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.col-md-4.new-user-area {
+  background-color: #ffffff;
+  border-radius: 15px 0 0 15px;
+  padding-bottom: 50px;
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+}
+
+.text-center.new-user-header {
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+  color: #16355D;
+  font-weight: bold;
+  margin-top: 21px;
+  font-style: normal;
+}
+
+.text-center.new-user-text {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #16355D;
+  font-weight: bold;
+  margin-top: 30px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+
+.btn.btn-primary.btn-lg.shadow.green-button {
+  width: 245px;
+  height: 60px;
+  background-color: #78BE20;
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  border-radius: 30px;
+  -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+}
+
+.text-center.new-user-text {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #16355D;
+  font-weight: bold;
+  margin-top: 40px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+
+.btn.btn-primary.btn-lg.shadow.green-button {
+  width: 245px;
+  height: 60px;
+  background-color: #78BE20;
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  border-radius: 30px;
+  -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+}
+
+.col-md-4.login-area {
+  background-color: #5da2d5;
+  border-radius: 0 15px 15px 0;
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+}
+
+.text-center.login-area-header {
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+  margin-top: 21px;
+  font-style: normal;
+}
+
+.form-control-lg.input-field {
+  width: 90%;
+  height: 60px;
+  border-radius: 30px;
+  padding-left: 25px;
+  margin-bottom: 20px;
+  outline: 0px;
+  /*padding: 4px;*/
+  /*-webkit-appearance: none;*/
+  /*-moz-appearance: none;*/
+  border: 2px solid #fff;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.form-control-lg.input-field {
+  width: 90%;
+  height: 60px;
+  border-radius: 30px;
+  padding-left: 25px;
+  margin-bottom: 20px;
+  border: 2px solid #fff;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.btn.btn-primary.btn-lg.shadow.white-button {
+  width: 245px;
+  height: 60px;
+  background-color: #ffffff;
+  font-size: 21px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  border-radius: 30px;
+  -webkit-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  -moz-box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.16);
+  margin-top: 20px;
+  color: #18355d;
+}
+
+.text-center.login-area-text {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  margin-top: 40px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+
+.container.bottom-area {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.row.bottom-area-row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.text-center.bottom-area-text {
+  color: rgb(255,255,255);
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 50;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.fas.fa-pound-sign.nav-item {
+  font-size: 20px;
+  color: #5DA2D5;
+}
+
+.nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff !important;
+}
+
+.nav-icon{
+  font-size: 20px;
+  color: #5DA2D5;
+  font-weight: normal;
+}
+
+.dropdown-item-icon {
+  font-size: 20px;
+  color: #5DA2D5;
+  font-weight: normal;
+}
+
+.link-text {
+  margin-left: 1em;
+}
